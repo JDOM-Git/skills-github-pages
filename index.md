@@ -10,4 +10,4 @@ _This is my first attempt at building anything in GIT_
 * And much more 
 
 
-My goal is to provide a basic website to assist with the further understanding of using GIT
+My goal is to provide a basic website to assist with the further understanding of using GIT 
